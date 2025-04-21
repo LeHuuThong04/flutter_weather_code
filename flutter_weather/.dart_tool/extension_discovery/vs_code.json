@@ -1,1 +1,1 @@
-{"version":2,"entries":[{"package":"flutter_weather","rootUri":"../","packageUri":"lib/"}]}
+{"version":2,"entries":[{"package":"open_meteo_api","rootUri":"../packages/open_meteo_api/","packageUri":"lib/"},{"package":"weather_repository","rootUri":"../packages/weather_repository/","packageUri":"lib/"},{"package":"flutter_weather","rootUri":"../","packageUri":"lib/"}]}
