@@ -4,7 +4,7 @@
             "outputFile": "com.example.flutter_weather.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\Development\\flutter_weather\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\Development\\flutter_clone\\flutter_weather_code\\flutter_weather\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
